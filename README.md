@@ -1,3 +1,4 @@
+完全转自https://github.com/clangcn/kcptun_for_ss_ssr  ，感谢大神，我只想备份一下。
 A tool to auto-compile & install KCPTUN for SS/SSR on Linux
 ===========
 ##一键安装KCPTUN for SS/SSR on Linux。  
